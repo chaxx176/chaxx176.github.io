@@ -20,7 +20,7 @@ title                    : "Data Maniac"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "chaxx176"
-description              : " "
+description              : #" "
 url                      : "https://data-maniac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "chaxx176"
+  name             : # "chaxx176"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The people who are crazy enough to think they can change the world are the ones who do. -Steve Jobs"
   location         : "Republic of Korea"
