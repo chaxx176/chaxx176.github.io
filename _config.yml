@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Data Maniac"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "CHA"
 description              : ""
 url                      : "https://data-maniac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The people who are crazy enough to think they can change the world are the ones who do. -Steve Jobs-"
   location         : "Republic of Korea"
-  email            :
+  email            : "chaxx176@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
