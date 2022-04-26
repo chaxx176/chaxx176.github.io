@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Data Maniac"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "데이터 매니악
 name                     : "CHA"
-description              : " "
+description              : ""
 url                      : "https://data-maniac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The people who are crazy enough to think they can change the world are the ones who do. -Steve Jobs-"
   location         : "Republic of Korea"
