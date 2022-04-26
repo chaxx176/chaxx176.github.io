@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Data Maniac"
 title_separator          : "|"
-subtitle                 : "데이터 매니악
+subtitle                 : "데이터 매니악"
 name                     : "CHA"
 description              : ""
 url                      : "https://data-maniac.github.io"
