@@ -11,3 +11,6 @@ conda update --all
 python -m pip install --upgrade pip
 ## 5. 버전 확인
 conda --version
+``` python
+conda update -n base conda
+'''
