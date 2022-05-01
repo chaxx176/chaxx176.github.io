@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "아나콘다 업데이트"
 ---
 # 아나콘다 업데이트 방법
