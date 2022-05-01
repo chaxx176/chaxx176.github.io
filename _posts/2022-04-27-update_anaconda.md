@@ -12,3 +12,4 @@ conda update --all
 python -m pip install --upgrade pip
 ## 5. 버전 확인
 conda --version
+### 업데이트 오류 시 삭제 후 재설치
