@@ -2,7 +2,7 @@
 title:  "아나콘다 업데이트"
 ---
 # 아나콘다 업데이트 방법
-## 1. anaconda prompt 관리자 권한으로 실행
+## 1. anaconda prompt를 관리자 권한으로 실행
 ## 2. 기본 틀 업데이트
 conda update -n base conda
 ## 3. 패키지 업데이트
@@ -11,4 +11,3 @@ conda update --all
 python -m pip install --upgrade pip
 ## 5. 버전 확인
 conda --version
-### 업데이트 오류 시 삭제 후 재설치
